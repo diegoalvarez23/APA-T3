@@ -89,9 +89,11 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 - Se valorará lo pythónico de la solución; en concreto, su claridad y sencillez, y el
   uso de los estándares marcados por PEP-ocho.
 
-#### Ejecución de los tests unitarios
+## Execució dels tests unitaris
 
-(resultado_test.png)
+![Resultat tests](resultado_test.png)
+
+---
 
 #### Código desarrollado
 
