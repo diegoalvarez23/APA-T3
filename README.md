@@ -1,12 +1,11 @@
 # Tercera tarea de APA: Multiplicación de vectores y ortogonalidad
 
-## Diego Alvarez Tomé
+## Nom i Cognoms
 
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
 >
-> Fulano Mengano Zutano
-
+> Diego Alvarez Tome
 ## Aviso Importante
 
 > [!Caution]
@@ -92,7 +91,7 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 
 #### Ejecución de los tests unitarios
 
-![Resultat tests](resultado_test.png)
+(resultado_test.png)
 
 #### Código desarrollado
 
