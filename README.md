@@ -91,7 +91,7 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 
 ## Execució dels tests unitaris
 
-![Resultat tests](resultado_test.png)
+![Resultat tests](resultado_tests.png)
 
 ---
 
